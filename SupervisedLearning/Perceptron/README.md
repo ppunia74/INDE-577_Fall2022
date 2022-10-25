@@ -10,10 +10,10 @@ Contents of **Perceptron**
 * [Perceptron_iris.ipynb](https://github.com/ppunia74/INDE-577_Fall2022/blob/main/SupervisedLearning/Perceptron/Perceptron_iris.ipynb): Jupyter notebook file contains:
   * a. Building Perceptron algorithm from scratch
   * b. Performing perceptron algorithm using Iris Dataset to classify the iris species
-* [Perceptron.ipynb](https://github.com/cissyyang1014/DataScience_and_MachineLearning/blob/main/SupervisedLearning/Perceptron/Perceptron.ipynb): Jupyter notebook file contains
+* [Perceptron.ipynb](https://github.com/ppunia74/INDE-577_Fall2022/blob/main/SupervisedLearning/Perceptron/Perceptron.ipynb): Jupyter notebook file contains
   * a. Introduction of the perceptron algorithm
   * b. Building Perceptron algorithm from scratch
-  * c. Performing the perceptron algorithm using penguins dataset to classify Adelie penguins and Gentoo penguins
+  * c. Implement the perceptron algorithm using banknote authentication dataset to classify forged and genuine currency
 
 ![image](https://github.com/ppunia74/INDE-577_Fall2022/blob/main/SupervisedLearning/Perceptron/Image/perceptron.jpeg)
 
