@@ -49,7 +49,7 @@ The following topics have been covered in class:
 - [Exploratory Data Analysis]() using the primary dataset used in this repository
 - [Supervised Learning]()
   - [Perceptron](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/Perceptron)
-  - [Linear Regression]()
+  - [Linear Regression](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/Linear%20Regression)
   - [Gradient Descent]()
   - [Logistic Regression]()
   - [Neural Networks]()
