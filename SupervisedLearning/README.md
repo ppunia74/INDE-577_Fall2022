@@ -10,9 +10,9 @@ List of **Supervised Learning** Algorithms in this repository:
 
 * [K Nearest Neighbors (KNN)]()
 * [Gradient Descent]()
-* [Linear Regression]()
+* [Linear Regression](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/Linear%20Regression)
 * [Logistic Regression]()
-* [Perceptron]()
+* [Perceptron](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/Perceptron)
 * [Neuron Network]()
 * [Decision Tree]()
 * [Ensemble Learning and Random Forest]()

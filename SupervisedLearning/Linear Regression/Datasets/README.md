@@ -1,1 +1,1 @@
-This folder contains datasets used in **Perceptron** module.
+This folder contains datasets used in **Linear Regression** module.
