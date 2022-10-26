@@ -6,11 +6,9 @@ Contents of **Linear Regression**
 
 * [Image](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/2.3.png): contains images used in the sub-repository
 * [Data](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/Linear%20Regression/Datasets) contains dataset used in the regression.
-
-
-* [Linear_Reression.ipynb](): Jupyter notebook file contains
+* [Linear_Reression.ipynb](https://github.com/ppunia74/INDE-577_Fall2022/blob/main/SupervisedLearning/Linear%20Regression/Linear_Regression.ipynb): Jupyter notebook file contains
   * a. Introduction of Linear Regression
-  * b. Building Linear Regression algorithm from scratch and implement Linear Regression in two different time series data (Ethereum price and Bitcoin price), and predict the future prices
+  * b. Building Linear Regression algorithm from scratch and implement Linear Regression to predict the car price, and predict the future prices
   * c.  Feature Engineering
 
 ![image](https://github.com/ppunia74/INDE-577_Fall2022/blob/main/SupervisedLearning/Linear%20Regression/Image/linear-regression.png)
@@ -40,6 +38,6 @@ Some of the commonly used linear regression based methods::
   - [Elastic Net](https://en.wikipedia.org/wiki/Elastic_net_regularization): is a combination of LASSO and Ridge Regression that adjusts both the weight of the features and probability
 
 
-Please read [Linear_Reression.ipynb]() to learn more details.
+Please read [Linear_Reression.ipynb](https://github.com/ppunia74/INDE-577_Fall2022/blob/main/SupervisedLearning/Linear%20Regression/Linear_Regression.ipynb) to learn more details.
 
 ---
