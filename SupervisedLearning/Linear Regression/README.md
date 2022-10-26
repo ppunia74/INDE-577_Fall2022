@@ -4,7 +4,10 @@ This sub-repository demonstrates the implementation of Linear Regression algorit
 
 Contents of **Linear Regression**
 
-* [Image](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/2.3.png): contains images used in README
+* [Image](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/2.3.png): contains images used in the sub-repository
+* [Data](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/Linear%20Regression/Datasets) contains dataset used in the regression.
+
+
 * [Linear_Reression.ipynb](): Jupyter notebook file contains
   * a. Introduction of Linear Regression
   * b. Building Linear Regression algorithm from scratch and implement Linear Regression in two different time series data (Ethereum price and Bitcoin price), and predict the future prices
@@ -36,66 +39,7 @@ Some of the commonly used linear regression based methods::
   - [Ridge Regression](https://en.wikipedia.org/wiki/Tikhonov_regularization) (aka L2 Regularization): modifies ordinary least squares to minimize the squared absolute sum of the coefficients and compensate for large variation in input data. It includes a penalty term (often denoted lambda) that shrinks the weight of probability theta
   - [Elastic Net](https://en.wikipedia.org/wiki/Elastic_net_regularization): is a combination of LASSO and Ridge Regression that adjusts both the weight of the features and probability
 
-Linear models have following assumptions:
-- Linearity: the dependent variable Y should be linearly related to independent variables - view using a scatter plot
 
-![image](https://editor.analyticsvidhya.com/uploads/96503linear-nonlinear-relationships.png)
-
-- Normality: X and Y values follow the normal distribution - check with histograms, KDE plots, or Q-Q plots
-
-![image](https://editor.analyticsvidhya.com/uploads/64526normality.png)
-
-- Homoscedasticity: The spread of the residuals should be constant for all variables - use a residual plot (if the assumption is violated, points will form a funnel shape)
-
-![image](https://editor.analyticsvidhya.com/uploads/51367residuals.png)
-
-- Independence/No multicollinearity: there is no correlation between any of the independent variables - calculate a correlation matrix of VIF score (if VIF > 5, variables are highly correlated)
-
-![image](https://editor.analyticsvidhya.com/uploads/99214correlation.png)
-
-- Error terms are also normally distributed: plot histograms and Q-Q plots
-
-![image](https://editor.analyticsvidhya.com/uploads/79532normality%20of%20error.png)
-
-- No autocorrelation: error terms should be independent of each other - use Durbin-Watson test, where the null hypothesis assumes there is no autocorrelation
-
-![image](https://editor.analyticsvidhya.com/uploads/38946DW.png)
-
-There are also a few evaluation metrics for regression:
-- $R^2$, aka the "coefficient of determination": the most common metric, is the ratio of variation to the total variation (equation below - SS_res is the residual sum of squares and SS_tot is the total sum of squares). The value will be between 0 and 1; the closer to 1, the better the model. However, as the number of features increases, the value of $R^2$ increases, giving the (sometimes false) illusion of a good model.
-
-![image](https://editor.analyticsvidhya.com/uploads/74264r2.png)
-
-- Adjusted $R^2$: improvement to $R^2$, only considers features important for the model and shows the real improvement. The equation is detailed below
-
-![image](https://editor.analyticsvidhya.com/uploads/80741adjusted%20r2.png)
-
-- Mean Squared Error (MSE)
-
-![image](https://editor.analyticsvidhya.com/uploads/42113mse.jpg)
-
-- Root Mean Squared Error (RMSE): root of the mean difference between actual and predicted values. It penalizes large errors
-
-![image](https://editor.analyticsvidhya.com/uploads/69457rmse.png)
-
-
-The above information was largely based on [this article](https://www.analyticsvidhya.com/blog/2021/05/all-you-need-to-know-about-your-first-machine-learning-model-linear-regression/), which can be referenced for further reading.
-
-
-In machine learning, the objective of using linear regression is used to find the mathematical equation that best explains the relationship between the response variable (<img src="https://latex.codecogs.com/svg.image?\mathbf{Y}" title="\mathbf{Y}" />) and the predictors (<img src="https://latex.codecogs.com/svg.image?\mathbf{X}" title="\mathbf{X}" />). The matrix notation of the linear model is 
-
-<img src="https://latex.codecogs.com/svg.image?\mathbf{Y}=\mathbf{X}\mathbf{\beta}&plus;\mathbf{\epsilon}" title="\mathbf{Y}=\mathbf{X}\mathbf{\beta}+\mathbf{\epsilon}" />, where <img src="https://latex.codecogs.com/svg.image?\beta" title="\beta" /> is unknown model parameter, and <img src="https://latex.codecogs.com/svg.image?\epsilon" title="\epsilon" /> is random error.
-
-### Method of Least Squares
-
-The model fitting with Least Squares aims to minimize the sum of squared errors (SSE). The estimate of <img src="https://latex.codecogs.com/svg.image?\mathbf{Y}" title="\mathbf{Y}" /> by this model is <img src="https://latex.codecogs.com/svg.image?\hat{Y}=&space;\mathbf{X}\hat{\beta}=\mathbf{X}\left(&space;\mathbf{X}^{T}\mathbf{X}&space;\right)^{-1}\mathbf{X}^{T}\mathbf{Y}" title="\hat{Y}= \mathbf{X}\hat{\beta}=\mathbf{X}\left( \mathbf{X}^{T}\mathbf{X} \right)^{-1}\mathbf{X}^{T}\mathbf{Y}" />.
-
-The hat matrix is defined as <img src="https://latex.codecogs.com/svg.image?H=\mathbf{X}\left(&space;\mathbf{X}^{T}\mathbf{X}&space;\right)^{-1}\mathbf{X}^{T}" title="H=\mathbf{X}\left( \mathbf{X}^{T}\mathbf{X} \right)^{-1}\mathbf{X}^{T}" />, 
-which is composed solely of the sample values of the predictor variables.
-
-Please read [Linear_Reression.ipynb](https://github.com/cissyyang1014/DataScience_and_MachineLearning/blob/main/SupervisedLearning/Linear%20Regression/Linear_Regression.ipynb) to learn more details.
+Please read [Linear_Reression.ipynb]() to learn more details.
 
 ---
-
-### Datasets
-
