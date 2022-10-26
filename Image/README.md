@@ -1,1 +1,1 @@
-This folder contains images used in **INDE-577 Data Science and Machine Learning** repository README.
+This folder contains images used in **INDE-577_FALL2022** repository README.
