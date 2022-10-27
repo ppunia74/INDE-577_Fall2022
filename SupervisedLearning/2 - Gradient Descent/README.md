@@ -5,8 +5,8 @@ This sub-repository demonstrates the implementation of Gradient Descent to solve
 Contents in **Gradient Descent**
 * [Image](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/2%20-%20Gradient%20Descent/Image): folder containing images used in README
 * [Data](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/2%20-%20Gradient%20Descent/Data): folder containing datasets
-  - [penguins.csv](): Penguins Dataset
-* [Gradient_Descent.ipynb](): Jupyter notebook containing 
+  - [penguins.csv](https://github.com/ppunia74/INDE-577_Fall2022/blob/main/SupervisedLearning/2%20-%20Gradient%20Descent/Data/penguins.csv): Penguins Dataset
+* [Gradient_Descent.ipynb](https://github.com/ppunia74/INDE-577_Fall2022/blob/main/SupervisedLearning/2%20-%20Gradient%20Descent/Gradient_Descent.ipynb): Jupyter notebook containing 
   - 1) Introduction of Gradient Descent algorithm
   - 2) Implement:
     * Part 1: 
