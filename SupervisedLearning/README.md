@@ -9,7 +9,7 @@ There are nine supervised learning algorithms performed in this sub-repository. 
 List of **Supervised Learning** Algorithms in this repository:
 
 * [K Nearest Neighbors (KNN)]()
-* [Gradient Descent]()
+* [Gradient Descent](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/2%20-%20Gradient%20Descent)
 * [Linear Regression](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/Linear%20Regression)
 * [Logistic Regression]()
 * [Perceptron](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/Perceptron)
