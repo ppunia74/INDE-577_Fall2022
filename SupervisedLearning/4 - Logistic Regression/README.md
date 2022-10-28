@@ -58,13 +58,3 @@ The above two cost functions can be combined into a single function
 * Step 4: Repeat Step 1 to Step 3 until desired loss in-sample is reached, or a maximum number of steps is reached
 
 ---
-### Datasets
-
-There are two datasets used to implement Logistic Regrssion algorithm:
-* Candidates Dataset
-
-The Candidates Dataset is provided by Dr. Randy Davila. It is a historical admissions records of the college, which contains 40 rows and 4 columns, including the GMAT score, GPA, work experience, and whether the student is admitted (marked as "1") or rejected (marked as "0") by the college.
-
-* Pima Indians Diabetes Dataset
-
-The Pima Indians Diabetes Dataset involves the medical details (e.g., plasma glucose concentration, Diastolic bolld pressure, BMI, etc.) of Pima Indians and the onset of diabetes within 5 years. There are 768 observations with 9 variables.
