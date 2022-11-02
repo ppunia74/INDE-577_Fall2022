@@ -4,11 +4,11 @@ This sub-repository implements a Multilayer Perceptron Learning Algorithm aka ne
 
 Contents of **Neural Network**
 
-* [Image](): folder contains images used in README
-* [MLP_MNIST.ipynb](): Jupyter notebook file contains
+* [Image](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/5%20-%20Neural%20Network/Image): folder contains images used in README
+* [MLP_MNIST.ipynb](https://github.com/ppunia74/INDE-577_Fall2022/blob/main/SupervisedLearning/5%20-%20Neural%20Network/MLP_MNIST.ipynb): Jupyter notebook file contains
   * a. Building Multilayer Perceptron Learning algorithm from scratch
   * b. Performing multilayer perceptron algorithm using MNIST Dataset to classify the handwritten digits
-* [MLP.ipynb](): Jupyter notebook file contains
+* [MLP.ipynb](https://github.com/ppunia74/INDE-577_Fall2022/blob/main/SupervisedLearning/5%20-%20Neural%20Network/MLP.ipynb): Jupyter notebook file contains
   * a. Introduction of the perceptron algorithm
   * b. Building Multilayer Perceptron Learning algorithm from scratch
   * c. Performing the multilayer perceptron algorithm using Fashion MNIST dataset to classify fashion categories
