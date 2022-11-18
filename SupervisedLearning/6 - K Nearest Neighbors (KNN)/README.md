@@ -14,7 +14,7 @@ Contents of **K Nearest Neighbors (KNN)**
 
 ### A Short Summary
 
-<img src="Image/KNN-regression" alt="Drawing" style="width: 500px;"/>
+<img src="Image/KNN-regression.gif" alt="Drawing" style="width: 500px;"/>
 
 # K Nearest Neighbors (KNN)
 
@@ -23,7 +23,7 @@ K Nearest Neighbors is a simple classification  algorithm that stores all the av
 ### Idea
 
 In short, KNN essentially boils down to forming a majority vote between K most similar (i.e. closest) instances to a given "unseen" observation.  In other words, data with similar features "should" be close in space.
-<img src="Image/KNN-voting" alt="Drawing" style="width: 500px;"/>
+<img src="Image/KNN-voting.png" alt="Drawing" style="width: 500px;"/>
 
 ### Generalized Algorithm:
 
