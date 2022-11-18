@@ -10,7 +10,6 @@ Contents of **K Nearest Neighbors (KNN)**
   * 1) Building KNN algorithm from scratch and performing KNN using Hawks Dataset to classify the hawks species
   * 2) Compare the built algorithm with the *KNeighborsClassifier* from sklearn
 
-![image]()
 
 ### A Short Summary
 
