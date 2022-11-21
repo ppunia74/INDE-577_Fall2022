@@ -1,0 +1,1 @@
+This folder contains images used in the **Naive Bayes Classfier Algorithm** subrepository.
