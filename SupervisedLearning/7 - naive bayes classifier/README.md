@@ -2,10 +2,10 @@ This sub-repository mainly focuses on using Naive Bayes Classifier Algorithm to 
 
 Contents of **Naive Bayes**
 
-* [Image](): contains images used in README
-* [Data](): contains all data files used in this module
-  * [Hawk.csv](): Hawk Dataset
-* [Naive Bayes Classifier.ipynb](): Jupyter notebook file contains the implementation of Naive Bayes Classifier
+* [Image](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/7%20-%20naive%20bayes%20classifier/Image): contains images used in README
+* [Data](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/7%20-%20naive%20bayes%20classifier/Data): contains all data files used in this module
+  * [Hawk.csv](https://github.com/ppunia74/INDE-577_Fall2022/blob/main/SupervisedLearning/7%20-%20naive%20bayes%20classifier/Data/Hawks.csv): Hawk Dataset
+* [Naive Bayes Classifier.ipynb](https://github.com/ppunia74/INDE-577_Fall2022/blob/main/SupervisedLearning/7%20-%20naive%20bayes%20classifier/Naive%20Bayes%20Classifier.ipynb): Jupyter notebook file contains the implementation of Naive Bayes Classifier
 
 # Naive Bayes Classifier
 
