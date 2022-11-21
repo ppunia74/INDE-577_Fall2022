@@ -2,8 +2,8 @@
 
 Contents of **Support Vector Machines (SVMs)**
 
-* [Image](https://github.com/cissyyang1014/DataScience_and_MachineLearning/tree/main/SupervisedLearning/Support%20Vector%20Machines%20(SVMs)/Image): folder containing images used in README
-* [SVM_single_cell.ipynb](https://github.com/cissyyang1014/DataScience_and_MachineLearning/blob/main/SupervisedLearning/Support%20Vector%20Machines%20(SVMs)/SVM_single_cell.ipynb): Jupyter notebook file performs the SVM algorithm to train a classifier to automatically annotate single-cell RNA-seq data
+* [Image](): contains images used in README
+* [SVM_single_cell.ipynb](): Jupyter notebook file performs the SVM algorithm to train a classifier to automatically annotate single-cell RNA-seq data
 
 ![iamge](https://github.com/cissyyang1014/DataScience_and_MachineLearning/blob/main/SupervisedLearning/Support%20Vector%20Machines%20(SVMs)/Image/Support-Vector-Machines-1.jpg)
 
@@ -19,7 +19,7 @@ The goal of the SVM algorithm is to create the best decision boundary to separat
 
 The working flow of a simple SVM algorithm can be simply summarized in two steps:
 
-* Find boudaries (or hyperplane) that correctly separate the classes for the trainig data
+* Find boundaries (or hyperplane) that correctly separate the classes for the training data
 * Picks the one that has the maximum distance from the closest data points
 
 Please read  [SVM_single_cell.ipynb](https://github.com/cissyyang1014/DataScience_and_MachineLearning/blob/main/SupervisedLearning/Support%20Vector%20Machines%20(SVMs)/SVM_single_cell.ipynb) to learn more details.
