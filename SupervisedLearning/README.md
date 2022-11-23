@@ -8,14 +8,14 @@ There are nine supervised learning algorithms performed in this sub-repository. 
 
 List of **Supervised Learning** Algorithms in this repository:
 
-* [K Nearest Neighbors (KNN)]()
+* [K Nearest Neighbors (KNN)](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/6%20-%20K%20Nearest%20Neighbors%20(KNN))
 * [Gradient Descent](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/2%20-%20Gradient%20Descent)
 * [Linear Regression](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/Linear%20Regression)
 * [Logistic Regression](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/4%20-%20Logistic%20Regression)
 * [Perceptron](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/Perceptron)
-* [Neuron Network]()
-* [Decision Tree]()
-* [Ensemble Learning and Random Forest]()
+* [Neuron Network](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/5%20-%20Neural%20Network)
+* [Decision Tree](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/7%20-%20Decision%20Tree)
+* [Ensemble Learning and Random Forest](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/Ensemble%20Learning%20and%20Random%20Forest)
 * [Support Vector Machines (SVMs)]()
 
 ---
