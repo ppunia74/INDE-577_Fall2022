@@ -4,19 +4,20 @@ Supervised learning methods are widely used in practice. The intuition of Superv
 
 ![image](https://github.com/ppunia74/INDE-577_Fall2022/blob/main/SupervisedLearning/Image/supervised_learning.png)
 
-There are nine supervised learning algorithms performed in this sub-repository. Most of the algorithms are coded from scratch. Each algorithm is performed in two different datasets, one of which is from the class example. 
+There are ten supervised learning algorithms performed in this sub-repository. Most of the algorithms are coded from scratch. Each algorithm is performed in two different datasets, one of which is from the class example. 
 
 List of **Supervised Learning** Algorithms in this repository:
 
-* [K Nearest Neighbors (KNN)](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/6%20-%20K%20Nearest%20Neighbors%20(KNN))
+* [Perceptron](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/Perceptron)
 * [Gradient Descent](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/2%20-%20Gradient%20Descent)
 * [Linear Regression](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/Linear%20Regression)
 * [Logistic Regression](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/4%20-%20Logistic%20Regression)
-* [Perceptron](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/Perceptron)
 * [Neuron Network](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/5%20-%20Neural%20Network)
+* [K Nearest Neighbors (KNN)](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/6%20-%20K%20Nearest%20Neighbors%20(KNN))
+* [Naive Bayes Classifier](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/7%20-%20naive%20bayes%20classifier)
 * [Decision Tree](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/7%20-%20Decision%20Tree)
+* [Support Vector Machines (SVMs)](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/9%20-%20Support%20Vector%20Machines%20(SVMs))
 * [Ensemble Learning and Random Forest](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/Ensemble%20Learning%20and%20Random%20Forest)
-* [Support Vector Machines (SVMs)]()
 
 ---
 
