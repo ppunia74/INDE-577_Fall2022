@@ -5,7 +5,7 @@ Contents of **Support Vector Machines (SVMs)**
 * [Image](): contains images used in README
 * [SVM_single_cell.ipynb](): Jupyter notebook file performs the SVM algorithm to train a classifier to automatically annotate single-cell RNA-seq data
 
-![iamge](https://github.com/cissyyang1014/DataScience_and_MachineLearning/blob/main/SupervisedLearning/Support%20Vector%20Machines%20(SVMs)/Image/Support-Vector-Machines-1.jpg)
+![iamge](https://github.com/ppunia74/INDE-577_Fall2022/blob/main/SupervisedLearning/9%20-%20Support%20Vector%20Machines%20(SVMs)/Image/SVM.png)
 
 ### A Short Summary
 
