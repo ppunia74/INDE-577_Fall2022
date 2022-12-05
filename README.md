@@ -34,7 +34,7 @@ This course uses the following data science tools:
   - [scikit-learn](https://scikit-learn.org/stable/user_guide.html)
   - [Tensorflow](https://www.tensorflow.org/api_docs/python/tf/all_symbols)
 
-The topics covered in this course broadly fall into 3 categories: 
+The topics covered in this course broadly fall into 2 categories: 
 ![image](https://github.com/ppunia74/INDE-577_Fall2022/blob/main/Image/types_of_ML.png)
 
 ## Repository Description
@@ -46,8 +46,7 @@ Programming language used in this repository is Python 3.
 Files in this repository are Jupyter Notebook projects demonstrating machine learning algorithms learned in class and referenced in various textbooks. This repository primarily contains supervised learning algorithms and unsupervised learning algorithms.
 The following topics have been covered in class:
 
-- [Exploratory Data Analysis]() using the primary dataset used in this repository
-- [Supervised Learning]()
+- [Supervised Learning](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning)
   - [Perceptron](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/Perceptron)
   - [Linear Regression](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/Linear%20Regression)
   - [Gradient Descent](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/2%20-%20Gradient%20Descent)
@@ -58,15 +57,9 @@ The following topics have been covered in class:
   - [Support Vector Machines](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/9%20-%20Support%20Vector%20Machines%20(SVMs))
   - [Decision/Regression Trees](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/8%20-%20Decision%20Tree)
   - [Ensemble Learning](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/SupervisedLearning/10%20-%20Ensemble%20Learning%20and%20Random%20Forest)
-- [Unsupervised Learning]()
+- [Unsupervised Learning](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/UnsupervisedLearning)
   - [K-Means Clustering](https://github.com/ppunia74/INDE-577_Fall2022/tree/main/UnsupervisedLearning/K%20Means%20Clustering)
-  - [Principle Component Analysis]()
-- [Reinforcement Learning]()
-  - [Q-Learning algorithm]()
-  - [Graph Theory]() - this is not an explicit "algorithm" of reinforcement learning. Rather, this is an area of new development and overlap between a mathematical field and data science
 
-<!-- The examples and implementations of algorithms in this repository will specifically focus on the context of Human Resources Analytics, which is a growing area in business representing the use of data science and machine learning in the context of Human Resources. More detals on HR analytics can be found [here](https://lesley.edu/article/how-hr-analytics-are-changing-business).
- -->
 
 
 ## Further Reading
