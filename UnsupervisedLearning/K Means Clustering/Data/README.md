@@ -1,1 +1,1 @@
-This folder contains datasets used in **K Means Clustering** module.
+This folder contains dataset used in **K Means Clustering** module.
